@@ -3,7 +3,7 @@
 ## Android-PickerView
 [![API](https://img.shields.io/badge/API-9%2B-brightgreen.svg)](https://android-arsenal.com/api?level=9) 
 [![License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
-[![Download](https://api.bintray.com/packages/contrarywind/maven/Android-PickerView/images/download.svg) ](https://bintray.com/contrarywind/maven/Android-PickerView/_latestVersion)
+[![Download](https://api.bintray.com/packages/com.contrarywind/maven/Android-PickerView/images/download.svg) ](https://bintray.com/com.contrarywind/maven/Android-PickerView/_latestVersion)
 
 [![GitHub stars](https://img.shields.io/github/stars/Bigkoo/Android-PickerView.svg?style=social)](https://github.com/Bigkoo/Android-PickerView/stargazers) [![GitHub forks](https://img.shields.io/github/forks/Bigkoo/Android-PickerView.svg?style=social)](https://github.com/Bigkoo/Android-PickerView/network) [![GitHub watchers](https://img.shields.io/github/watchers/Bigkoo/Android-PickerView.svg?style=social)](https://github.com/Bigkoo/Android-PickerView/watchers)
 
@@ -91,14 +91,14 @@
 
 #### 1.添加Jcenter仓库 Gradle依赖：
 ```java
-compile 'com.contrarywind:Android-PickerView:4.1.9'
+compile 'com.com.contrarywind:Android-PickerView:4.1.9'
 ```
 或者
 
 #### Maven
 ```
 <dependency>
-<groupId>com.contrarywind</groupId>
+<groupId>com.com.contrarywind</groupId>
 <artifactId>Android-PickerView</artifactId>
 <version>4.1.9</version>
 <type>pom</type>
@@ -261,21 +261,21 @@ pvOptions = new  OptionsPickerBuilder(this, new OptionsPickerView.OnOptionsSelec
 ```
 
 #### 5.对使用还有疑问的话，可参考demo代码
-[请戳我查看demo代码](https://github.com/Bigkoo/Android-PickerView/blob/master/app/src/main/java/com/bigkoo/pickerviewdemo/MainActivity.java)
+[请戳我查看demo代码](https://github.com/Bigkoo/Android-PickerView/blob/master/app/src/main/java/com/bigkoo/com.bigkoo.pickerviewdemo/MainActivity.java)
 
 
 
 #### 6.若只需要WheelView基础控件自行扩展实现逻辑，可直接添加基础控件库，Gradle 依赖：
  
 ```java
-compile 'com.contrarywind:wheelview:4.1.0'
+compile 'com.com.contrarywind:wheelview:4.1.0'
 ```
 
 #### WheelView 使用代码示例：
 
 xml布局：
 ```xml
- <com.contrarywind.view.WheelView
+ <com.com.contrarywind.view.WheelView
             android:id="@+id/wheelview"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />

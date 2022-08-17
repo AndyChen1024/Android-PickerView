@@ -39,14 +39,14 @@ and support for the linkage, dialog . It's very easy to use ,  you also can cust
 ### Gradle
 
 ```java
-compile 'com.contrarywind:Android-PickerView:4.1.9'
+compile 'com.com.contrarywind:Android-PickerView:4.1.9'
 ```
 
 ### Maven
 
 ```
 <dependency>
-<groupId>com.contrarywind</groupId>
+<groupId>com.com.contrarywind</groupId>
 <artifactId>Android-PickerView</artifactId>
 <version>4.1.8</version>
 <type>pom</type>
@@ -242,7 +242,7 @@ pvNoLinkOptions = new OptionsPickerBuilder(this, new OnOptionsSelectListener() {
 
 ## For more detail, please refer to the Demo code, If there is still doubt about you, please [New Issue](https://github.com/Bigkoo/Android-PickerView/issues) 
 
-###  [Here is demo code](https://github.com/Bigkoo/Android-PickerView/blob/master/app/src/main/java/com/bigkoo/pickerviewdemo/MainActivity.java)
+###  [Here is demo code](https://github.com/Bigkoo/Android-PickerView/blob/master/app/src/main/java/com/bigkoo/com.bigkoo.pickerviewdemo/MainActivity.java)
 
 ###  [Methods-and-parameters](https://github.com/Bigkoo/Android-PickerView/wiki/Methods-and-parameters)
 
